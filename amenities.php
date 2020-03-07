@@ -1,16 +1,24 @@
 <?php include 'header.php';?>
 
 
-<br> <br> <br>  <br> 
+<br> <br> <br>  <br>  <br>
+ 
 
-<div class="row" style="margin-right: 0px;">
+<div class="container-fluid">
+<div class="row" style="margin-right: 0px; margin-top: 5%">
+
+
+  
    <div class="col-xs-3 col-md-5" >
-      
+  
+  <div style="margin-left: 20px">
+  <img src="img/text_04.png" width="500">
+  </div>  <br> <Br>
     
            
-      <div class="text-center"> <br> <Br> <br>
+      <div class="text-center"> 
               <h2 class="blendcolor" style="margin-left: 20px"> BUILDING COMMON AMENITIES  </h2>
-           <br> 
+         
 
                </div>
       
@@ -45,55 +53,87 @@
          <!--    <p><a href="#" class="probootstrap-custom-link">About Us</a></p> -->
        
 </div>
-    <div class="col-xs-9 col-md-71" style=" margin-top: 20%;">
+    <div class="col-xs-9 col-md-71">
       <img src="img/amenities.jpg" style="width: 100%">
+<br> <br>
+
+
+      <div class="container-fluid"  style="padding-right: 0px; padding-left: 0px">
+      <div class="row">
+   
+          <div class="col-md-4">
+            <img src="img/am1.jpg" class="resimg">
+          </div>
+          <div class="col-md-4">
+            <img src="img/am2.jpg" class="resimg">
+          </div>
+          <div class="col-md-4">
+            <img src="img/am3.jpg" class="resimg">
+          </div>
+
+
+     </div>
+
+
+    </div>   
     </div>   
   </div>
 
 
 
 
+</div>
 
+<div class="container-fluid" data-aos="fade-up" data-aos-delay="200">
 
-<div class="container">
-  <div class="text-center">
-  <img src="img/text_04.png" width="500">
-  </div>
 
 <br> <br> <br>
- <div class="row">
+ <div class="row" style="    margin-left: 7px;">
 
 
   <div class="col-md-6">
 
-<p style="color: black">
+<p class="amenitiesText">
  <b class="blendcolor">Structure </b> : <br>
-Earthquake Resistant RCC Frame Structure as specified by RCC Consultant<br>
+Earthquake Resistant RCC Frame Structure as specified by RCC Consultant<br> <br>
+
 <b class="blendcolor">Masonry </b>:<br>
 External Wall 6” thick brick work in Red Bricks (If quality bricks available)/ Light Weight Blocks/Concrete
 Blocks<br>
 Internal Wall 4/6” thick brick work in Red Bricks (If quality bricks available)/Light Weight Blocks
-/Concrete Blocks<br>
+/Concrete Blocks<br><br>
+
 <b class="blendcolor">Plastering </b>:<br>
-Sand face double coat plaster for external walls and Sunla finish plaster for internal walls.<br>
+Sand face double coat plaster for external walls and Sunla finish plaster for internal walls.<br><br>
+
 <b class="blendcolor">Flooring</b> :<br>
 Living Room, Bedrooms, Dining and Other rooms,<br>
-Passage – 2' x 2' Ivory vitrified Tiles<br>
-<b class="blendcolor">Toilet :</b> Anti skid Ceramic Tiles<br>
+Passage – 2' x 2' Ivory vitrified Tiles<br><br>
 
-<b class="blendcolor">Balcony </b>: Anti skid Ceramic Tiles<br>
-<b class="blendcolor">Lobbies</b> : Decorated Lobbies with marble<br>
+<b class="blendcolor">Toilet :</b> Anti skid Ceramic Tiles<br><br>
+
+
+<b class="blendcolor">Balcony </b>: Anti skid Ceramic Tiles<br><br>
+
+<b class="blendcolor">Lobbies</b> : Decorated Lobbies with marble<br><br>
+
 <b class="blendcolor">Kitchen </b>:<br>
 Kitchen Platform 8' Long – Wall to Wall Black Granite Top with SS sink of Nirali or Equivalent make.<br>
-Designer tiles up to lintel level and white glazed tiles below platform<br>
+Designer tiles up to lintel level and white glazed tiles below platform<br><br>
 
-<b class="blendcolor">Toilets</b> : Designer tiles up to lintel level<br>
-<b class="blendcolor">Door frames</b> :<br>
-<b class="blendcolor">Main Door </b>: Plywood<br>
-<b class="blendcolor">Others </b>: Plywood<br>
+
+<b class="blendcolor">Toilets</b> : Designer tiles up to lintel level<br><br>
+
+<b class="blendcolor">Door frames</b> :<br><br>
+
+<b class="blendcolor">Main Door </b>: Plywood<br><br>
+
+<b class="blendcolor">Others </b>: Plywood<br><br>
+
 <b class="blendcolor">Toilets </b>: Granite frame<br>
 Balcony &amp; Dry Balcony Door : Granite Frame<br>
-Door Shutters :<br>
+Door Shutters :<br><br>
+
 <b class="blendcolor">Main Door </b> : Veneer finish (Single Side) Flush door with night latch of reputable brand.
 Bedroom / Internal Door : Flush Door with Laminate on both sides.
 Toilet and Others : Waterproof Flush Door with laminate on both
@@ -107,21 +147,25 @@ sides.<br>
 
 <div class="col-md-6">
 
-<p style="color: black">
+<p class="amenitiesText">
   
 <b class="blendcolor">Door fitting </b>: <br>
 Mortise locks, Door Stopper and tower bolts to Internal / Bedroom Doors.<br>
-Night Latch, Tower Bolt, Door Stopper and safety chain to Main Door.<br>
+Night Latch, Tower Bolt, Door Stopper and safety chain to Main Door.<br><br>
+
 <b class="blendcolor">Window </b>:<br>
 Single Granite Window sill<br>
-Three track Aluminium windows (One Mosquito and Two glass) with MS Grill<br>
+Three track Aluminium windows (One Mosquito and Two glass) with MS Grill<br><br>
+
 <b class="blendcolor">Plumbing </b>:<br>
 Concealed plumbing internal. U.P.V.C./P.V.C./C.I. pipes for external and C.P. fittings of Jaguar make or<br>
-equivalent<br>
+equivalent<br><br>
+
 <b class="blendcolor">Sanitary</b> :<br>
 Wall-hung Commode (White) and wash basin in attached toilet<br>
 
-Counter wash basin in passage (where applicable)<br> <br>
+Counter wash basin in passage (where applicable)<br> <br><br>
+
 
 
 <b class="blendcolor"> Electrical works </b>:<br>
@@ -151,7 +195,7 @@ light points in each room and 2 plug points in flat.<br>
 </div>
 
 
-<br> <br
+<br> <br>
 
 
 <?php include 'footer.php';?>
