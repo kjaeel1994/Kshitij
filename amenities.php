@@ -18,7 +18,7 @@
 
    <a href="#" style="color: #D2691E"> <button class="button1">Project Features</button> </a>
 
-    <a href="#specs" > <button class="button1" >Project Features</button> </a>
+    <a href="#specs" > <button class="button1" >Building Specifications</button> </a>
 
 </div>
 

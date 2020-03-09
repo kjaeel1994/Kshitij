@@ -24,7 +24,7 @@
 
              <div class="col-md-6 col-lg-4 column cars">
   <div class="card  transform-on-hover">
-    <a class="lightbox" href="img/PLANS_03.png">
+    <a class="lightbox" href="img/PLANS_01.png">
     <img src="img/PLANS_01.png" alt="Card Image" class="card-img-top">
     </a>
   </div>
@@ -97,7 +97,7 @@
          
            <div class="col-md-6 col-lg-4 column cars">
   <div class="card  transform-on-hover">
-    <a class="lightbox" href="img/PLANS_01.png">
+    <a class="lightbox" href="img/PLANS_03.png">
     <img src="img/PLANS_03.png" alt="Card Image" class="card-img-top">
     </a>
   </div>

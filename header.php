@@ -58,7 +58,7 @@
      <dl class="contact-list"  style="position: absolute;
     left: 22%;">
     <br>
-                <p style="color: #D2691E; font-size: 1.2vw"><span><img src="img/whatsapp.png" width="30"></span> +91-91300 41371</p>
+                <p style="color: #debc6e; font-size: 1.2vw"><span><img src="img/whatsapp.png" width="30"></span> +91-91300 41371</p>
                 <dd><a href="mailto:#"></a></dd>
               </dl>
 
@@ -66,26 +66,26 @@
 
 <!--   Show this only lg screens and up   -->
     <a class="navbar-brand d-none d-lg-block" href="index.php">
-    	<img src="img/logo.png" style="width: 22%">
+    	<img src="img/logo.png" style="width: 20%">
     </a>
     
     
                <dl class="contact-list" style="position: absolute;
     right: 20%;">
     <br>
-               <p style="color: #D2691E; font-size: 1.2vw; margin-right: 1px"><span><img src="img/mail.png" width="30"></span> info@yash-empire.com</p>
+               <p style="color: #debc6e; font-size: 1.2vw; margin-right: 1px"><span><img src="img/mail.png" width="30"></span> info@yash-empire.com</p>
                 <dd><a href="mailto:#"></a></dd>
               </dl>
 
               <dl class="contact-list" style="position: absolute;
     right: 15%;">
     <br>
-               <p href="#" style="color: #D2691E"><span><img src="img/fb.png" width="25"></span></p>
+               <p href="#" style="color: #debc6e"><span><img src="img/fb.png" width="25"></span></p>
                 
               </dl>
     
     <ul class="navbar-nav">
-      <span style="font-size:30px;cursor:pointer; color: #D2691E" onclick="openNav()">&#9776; </span>
+      <span style="font-size:30px;cursor:pointer; color: #debc6e" onclick="openNav()">&#9776; </span>
   </div>
 
   <div id="mySidenav" class="sidenav">
