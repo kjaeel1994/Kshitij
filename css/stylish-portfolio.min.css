@@ -12,15 +12,21 @@
 * {
   font-family: TrajanPro-Regular;
 }*/
+html {
+  scroll-behavior: smooth;
+}
+
 
 .sidenav {
   height: 100%;
   width: 0;
   position: fixed;
   z-index: 1;
+  opacity: 0.8;
+
   top: 0;
   right: 0;
-  background-color: #fffcdf;
+  background-color: #272566;
   overflow-x: hidden;
   transition: 0.5s;
   padding-top: 60px;
@@ -29,14 +35,14 @@
 .sidenav a {
   padding: 20px 8px 10px 32px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 18px;
  
   display: block;
   transition: 0.3s;
 }
 
 .sidenav a:hover {
-  color: #f5821f;
+  color: #fff;
 }
 
 .sidenav .closebtn {
@@ -63,7 +69,7 @@
 }
 
 .carousel-item {
-  height: 89vh;
+  height: 45vw;
   /*min-height: 350px;*/
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -73,19 +79,19 @@
 }
 
 .restop {
-	margin-top: 6.5%;
+	margin-top: 7.3%;
 }
 
 @media screen and (max-width: 480px) {
 .restop {
-	margin-top: 22%;
+	margin-top: 25%;
 }
 
 }
 
 @media screen and (max-width: 480px) {
 .carousel-item {
-  height: 25vh;
+ /* height: 25vh;*/
  /* min-height: 240px;*/
   background: no-repeat center center scroll;
   -webkit-background-size: cover;
@@ -244,10 +250,11 @@ section .section-title {
 }
 
 .blendcolor {
-    color: #debc6e;
+    color: #D2691E;
     text-align: left;
     font-size: 1.2vw;
     font-weight: bolder;
+    text-transform: uppercase;
 }
 
 .blacky{
@@ -283,7 +290,7 @@ section .section-title {
 .button figure {
   display: none;
   position: absolute;
-  top: 8px;
+  top: 0px;
   left: 0px;
   padding: 0;
   margin: 0;
@@ -314,7 +321,7 @@ section .section-title {
 
 
 .navtext {
-  color: #372650  
+  color: #debc6e  
 }
 
 
@@ -345,15 +352,15 @@ section .section-title {
 
 @media screen and (min-width: 1900px) {
   .restop{
-    margin-top: 3%
+    margin-top: 3.8%
   }
 }
 
 @media screen and (min-width: 1900px) {
   .carousel-item {
-    height: 85vh;
-    min-height: 350px;
-    background: no-repeat center center scroll;
+    /*height: 90vh;
+    min-height: 350px;*/
+    background: no-repeat center bottom scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -434,4 +441,83 @@ color: black; font-size: 4.2vw;
 }
 
 
+}
+
+
+
+
+@media screen and (max-width: 480px) {
+
+
+.amenRes {
+  margin-left: 5px;
+  
+}
+
+
+}
+
+@media screen and (max-width: 480px) {
+
+
+.amenMd4 {
+ 
+  margin-top: 15px;
+}
+
+
+}
+
+
+.resposiveBird{
+position: absolute; right: 10%
+}
+
+
+
+@media screen and (max-width: 480px) {
+.hiddenBird { 
+  display: none
+}
+}
+
+
+.company1{
+margin-left: 20%;
+}
+
+@media screen and (max-width: 480px) {
+.company1{
+margin-left: 0px;
+}
+}
+
+
+.company2{
+margin-left: -25%
+}
+
+@media screen and (max-width: 480px) {
+.company2{
+margin-left: 0px;
+margin-top: 15%;
+}
+}
+
+/*.stickfooter {
+  position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}*/
+
+.button1 {
+  background-color: #5c3683; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
 }

@@ -11,7 +11,7 @@
     
            
       <div class="">
-              <img src="https://kshitijresidency.netlify.com/png/text_05.png" width="350">
+              <img src="img/text_05.png" width="350">
            <br> <br>
              
                </div>

@@ -11,14 +11,14 @@
     
            
       <div class="">
-              <img src="https://kshitijresidency.netlify.com/png/text_05.png" width="350">
+              <img src="img/text_05.png" width="350">
            <br> <br>
              
                </div>
         <br> 
         <div style="    width: 85%;">
             <p class="aboutText"> At Yash empire Developers LLP, quality is the centerpiece of everything we ever do. As a company built around an ethos of commitment and integrity, we have earned the trust of a diverse clientale that values excellence. <br> 
-The business promoters of Yash Empire Developers LLP are backed by 15 years of solid experience in premium porperty development; we pride on our building that have set benchmarks in different localities of Pune.
+The business promoters of Yash Empire Developers LLP are backed by 15 years of solid experience in premium property development, we pride on our building that have set benchmarks in different localities of Pune.
             </p>
         </div>
          <!--    <p><a href="#" class="probootstrap-custom-link">About Us</a></p> -->
@@ -57,7 +57,7 @@ The business promoters of Yash Empire Developers LLP are backed by 15 years of s
 <div class="container-fluid"  style=" margin-top: 100px; margin-bottom: 62px;" data-aos="fade-up" data-aos-delay="200">
   <div class="row text-center">
 
-  <div class="col-md-4" style="margin-left: 20%">
+  <div class="col-md-4 company1" >
     <img src="img/yash.png" width="300">
   </div>
 
@@ -65,7 +65,7 @@ The business promoters of Yash Empire Developers LLP are backed by 15 years of s
     <img src="img/renuka.png" width="200">
   </div>
  -->
-  <div class="col-md-8" style="margin-left: -25%">
+  <div class="col-md-8 company2" >
     <img src="img/group.png" width="300">
   </div>
 </div>

@@ -18,14 +18,14 @@
         </div> -->
       </div>
       <!-- Slide Two - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url('img/02.jpg')">
+      <!-- <div class="carousel-item" style="background-image: url('img/02.jpg')"> -->
      <!--    <div class="carousel-caption d-none d-md-block">
           <h2 class="display-4">Second Slide</h2>
           <p class="lead">This is a description for the second slide.</p>
         </div> -->
       </div>
       <!-- Slide Three - Set the background image for this slide in the line below -->
-      <div class="carousel-item" style="background-image: url('img/03.jpg')">
+   <!--    <div class="carousel-item" style="background-image: url('img/03.jpg')"> -->
      <!--    <div class="carousel-caption d-none d-md-block">
           <h2 class="display-4">Third Slide</h2>
           <p class="lead">This is a description for the third slide.</p>
@@ -52,40 +52,12 @@
 
 
 
-<!-- <div class="row" style="margin-right: 0px;">
-   <div class="col-xs-3 col-md-5" >
-   		
-   	
-           
-			<div style="margin-left: 20px">
-              <img src="https://kshitijresidency.netlify.com/png/text_02.png" width="350">
-           <br> <br>
-           
-               </div>
-        <br> 
-        <div>
-            <p style="margin-left: 20px;">Great things never take shape from modest ambitions 
-              thats why we are pushing the limits and aiming for the sky.. Presenting  Kshitij Residency, a stellar project designed to inspire new trends in the neighbourhood. Situated next to 
-              <b> Mayur Colony </b> - One of the most desirable locations in Kothrud - <b> Kshitij Residency</b> is an upscale address offering quick-n-easy access to everything that matters. 
-              A handpicked location, contemporary design, best-in-class  
-              amenities and superb price advantage make it an irrestible proposition.  
-              <b> Kshitij Residency</b> is much more than your new home; its the horizon where aspiration meets fulfilment.
-
-              <br> <br>
-              <b>One of the biggesr composite project's in Gujraat colony &amp; Mayur colony locality</b> 
-            </p>
-        </div>
-       
-       
-</div>
-    <div class="col-xs-9 col-md-71" style=" margin-top: 62px;">
-    	<img src="img/about.jpg" style="width: 100%">
-    </div>   
-  </div> -->
 
   <br> <br> <br> 
 
-<div id="sectiontwo" data-aos="fade-up" data-aos-delay="200">
+<section id="sectiontwo"></section>
+
+<div  data-aos="fade-up" data-aos-delay="200">
 
   <div class="row" style="margin-right: 0px;" >
    <div class="col-xs-3 col-md-5" >

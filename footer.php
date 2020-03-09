@@ -1,7 +1,7 @@
 
 
 
- <footer class="MobileRes"> 
+ <footer class="MobileRes "> 
    <img src="img/footer.png" style="width: 90%;">
  </footer>
 
@@ -10,7 +10,7 @@
     <i class="fas fa-angle-up"></i>
   </a>
 
-<footer>
+<footer class="stickfooter">
 <div class="button" >
   <img src="img/footer1.png" width="80">
   <figure>
@@ -43,7 +43,7 @@
 
 <script>
 function openNav() {
-  document.getElementById("mySidenav").style.width = "350px";
+  document.getElementById("mySidenav").style.width = "250px";
 }
 
 function closeNav() {
@@ -53,6 +53,10 @@ function closeNav() {
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
 <script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/baguettebox.js/1.10.0/baguetteBox.min.js"></script>
+    <script>
+        baguetteBox.run('.cards-gallery', { animation: 'slideIn'});
+    </script>
 
 <script>
 
